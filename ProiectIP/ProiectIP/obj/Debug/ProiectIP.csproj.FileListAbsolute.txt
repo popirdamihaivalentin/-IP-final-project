@@ -1,0 +1,31 @@
+c:\users\g4by\documents\visual studio 2015\Projects\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\G4BY\documents\visual studio 2015\Projects\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\G4BY\documents\visual studio 2015\Projects\ProiectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\G4BY\documents\visual studio 2015\Projects\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csprojResolveAssemblyReference.cache
+C:\Users\G4BY\documents\visual studio 2015\Projects\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\G4BY\documents\visual studio 2015\Projects\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.Cache
+C:\Users\G4BY\documents\visual studio 2015\Projects\ProiectIP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\G4BY\documents\visual studio 2015\Projects\ProiectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\G4BY\documents\visual studio 2015\Projects\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Camera.resources
+C:\Users\G4BY\documents\visual studio 2015\Projects\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Interfata.resources
+C:\Users\G4BY\Desktop\IP\Proiect\IP_Proiect\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+C:\Users\G4BY\Desktop\IP\Proiect\IP_Proiect\ProiectIP\ProiectIP\obj\Debug\ProiectIP.exe
+C:\Users\G4BY\Desktop\IP\Proiect\IP_Proiect\ProiectIP\ProiectIP\obj\Debug\ProiectIP.pdb
+C:\Users\G4BY\Desktop\IP\Proiect\IP_Proiect\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe
+C:\Users\G4BY\Desktop\IP\Proiect\IP_Proiect\ProiectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+C:\Users\G4BY\Desktop\IP\Proiect\IP_Proiect\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csprojResolveAssemblyReference.cache
+C:\Users\G4BY\Desktop\IP\Proiect\IP_Proiect\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+C:\Users\G4BY\Desktop\IP\Proiect\IP_Proiect\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.Cache
+C:\Users\G4BY\Desktop\IP\Proiect\IP_Proiect\ProiectIP\ProiectIP\obj\Debug\ProiectIP.InterfataVizualaCamera.resources
+C:\Users\G4BY\Desktop\IP\Proiect\IP_Proiect\ProiectIP\ProiectIP\obj\Debug\ProiectIP.InterfataVizualaMeniu.resources
+D:\Facultate\Sem II Anul 3\IP\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe.config
+D:\Facultate\Sem II Anul 3\IP\ProiectIP\ProiectIP\bin\Debug\ProiectIP.exe
+D:\Facultate\Sem II Anul 3\IP\ProiectIP\ProiectIP\bin\Debug\ProiectIP.pdb
+D:\Facultate\Sem II Anul 3\IP\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csprojAssemblyReference.cache
+D:\Facultate\Sem II Anul 3\IP\ProiectIP\ProiectIP\obj\Debug\ProiectIP.InterfataVizualaCamera.resources
+D:\Facultate\Sem II Anul 3\IP\ProiectIP\ProiectIP\obj\Debug\ProiectIP.InterfataVizualaMeniu.resources
+D:\Facultate\Sem II Anul 3\IP\ProiectIP\ProiectIP\obj\Debug\ProiectIP.Properties.Resources.resources
+D:\Facultate\Sem II Anul 3\IP\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.GenerateResource.cache
+D:\Facultate\Sem II Anul 3\IP\ProiectIP\ProiectIP\obj\Debug\ProiectIP.csproj.CoreCompileInputs.cache
+D:\Facultate\Sem II Anul 3\IP\ProiectIP\ProiectIP\obj\Debug\ProiectIP.exe
+D:\Facultate\Sem II Anul 3\IP\ProiectIP\ProiectIP\obj\Debug\ProiectIP.pdb
